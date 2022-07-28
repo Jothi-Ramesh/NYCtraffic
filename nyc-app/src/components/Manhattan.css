@@ -1,0 +1,4 @@
+/* we override a leaflet class*/
+.leaflet-container {
+    background-color: lightblue;
+}
